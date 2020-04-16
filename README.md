@@ -17,4 +17,4 @@ https://desenvolvedor.paggcerto.com.br/v2/account/
 - publish package in npm
 
 ### ADVICE
-This is an unofficial sdk. We made it cause Paggcerto doesn't provide an official sdk for Node.js yet.
+This is an unofficial sdk. We made it because Paggcerto doesn't provide an official sdk for Node.js yet.
